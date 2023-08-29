@@ -1,0 +1,12 @@
+F:\Skola\Programiranje\Cetvrta godina\Baze\Antikviteti i lokacije\Antikviteti i lokacije\Antikviteti i lokacije\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Skola\Programiranje\Cetvrta godina\Baze\Antikviteti i lokacije\Antikviteti i lokacije\Antikviteti i lokacije\obj\x86\Debug\Antikviteti_i_lokacije.Form1.resources
+F:\Skola\Programiranje\Cetvrta godina\Baze\Antikviteti i lokacije\Antikviteti i lokacije\Antikviteti i lokacije\obj\x86\Debug\Antikviteti_i_lokacije.Properties.Resources.resources
+F:\Skola\Programiranje\Cetvrta godina\Baze\Antikviteti i lokacije\Antikviteti i lokacije\Antikviteti i lokacije\obj\x86\Debug\Antikviteti_i_lokacije.Tip_antikviteta.resources
+F:\Skola\Programiranje\Cetvrta godina\Baze\Antikviteti i lokacije\Antikviteti i lokacije\Antikviteti i lokacije\obj\x86\Debug\Antikviteti i lokacije.csproj.GenerateResource.Cache
+F:\Skola\Programiranje\Cetvrta godina\Baze\Antikviteti i lokacije\Antikviteti i lokacije\Antikviteti i lokacije\bin\x86\Debug\Antikviteti i lokacije.exe
+F:\Skola\Programiranje\Cetvrta godina\Baze\Antikviteti i lokacije\Antikviteti i lokacije\Antikviteti i lokacije\bin\x86\Debug\Antikviteti i lokacije.pdb
+F:\Skola\Programiranje\Cetvrta godina\Baze\Antikviteti i lokacije\Antikviteti i lokacije\Antikviteti i lokacije\obj\x86\Debug\Antikviteti i lokacije.exe
+F:\Skola\Programiranje\Cetvrta godina\Baze\Antikviteti i lokacije\Antikviteti i lokacije\Antikviteti i lokacije\obj\x86\Debug\Antikviteti i lokacije.pdb
+F:\Skola\Programiranje\Cetvrta godina\Baze\Antikviteti i lokacije\Antikviteti i lokacije\Antikviteti i lokacije\obj\x86\Debug\Antikviteti_i_lokacije.Po_arheologu.resources
+F:\Skola\Programiranje\Cetvrta godina\Baze\Antikviteti i lokacije\Antikviteti i lokacije\Antikviteti i lokacije\obj\x86\Debug\Antikviteti_i_lokacije.Period.resources
+F:\Skola\Programiranje\Cetvrta godina\Baze\Antikviteti i lokacije\Antikviteti i lokacije\Antikviteti i lokacije\obj\x86\Debug\Antikviteti_i_lokacije.Po_tipu_antikviteta.resources

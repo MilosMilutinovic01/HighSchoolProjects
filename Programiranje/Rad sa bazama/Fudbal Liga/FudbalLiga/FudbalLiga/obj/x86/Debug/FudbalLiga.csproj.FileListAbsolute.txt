@@ -1,0 +1,11 @@
+C:\Users\Milos Milutinovic\AppData\Local\Temporary Projects\FudbalLiga\bin\x86\Debug\FudbalLiga.exe
+C:\Users\Milos Milutinovic\AppData\Local\Temporary Projects\FudbalLiga\bin\x86\Debug\FudbalLiga.pdb
+C:\Users\Milos Milutinovic\AppData\Local\Temporary Projects\FudbalLiga\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Milos Milutinovic\AppData\Local\Temporary Projects\FudbalLiga\obj\x86\Debug\FudbalLiga.Form1.resources
+C:\Users\Milos Milutinovic\AppData\Local\Temporary Projects\FudbalLiga\obj\x86\Debug\FudbalLiga.Properties.Resources.resources
+C:\Users\Milos Milutinovic\AppData\Local\Temporary Projects\FudbalLiga\obj\x86\Debug\FudbalLiga.Unos_meceva.resources
+C:\Users\Milos Milutinovic\AppData\Local\Temporary Projects\FudbalLiga\obj\x86\Debug\FudbalLiga.csproj.GenerateResource.Cache
+C:\Users\Milos Milutinovic\AppData\Local\Temporary Projects\FudbalLiga\obj\x86\Debug\FudbalLiga.exe
+C:\Users\Milos Milutinovic\AppData\Local\Temporary Projects\FudbalLiga\obj\x86\Debug\FudbalLiga.pdb
+F:\Skola\Programiranje\Cetvrta godina\Baze\Fudbal Liga\FudbalLiga\FudbalLiga\obj\x86\Debug\FudbalLiga.exe
+F:\Skola\Programiranje\Cetvrta godina\Baze\Fudbal Liga\FudbalLiga\FudbalLiga\obj\x86\Debug\FudbalLiga.pdb

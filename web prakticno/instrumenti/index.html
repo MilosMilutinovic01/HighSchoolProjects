@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Zvuci instrumenata | Pocetna</title>
+    <link href="https://fonts.googleapis.com/css?family=Comfortaa:600,700&display=swap" rel="stylesheet"> 
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <a id="naslov" href="index.html">Zvuci Instrumenata</a>
+        <ul>
+            <a href="index.html"><li>Pocetna</li></a>
+            <a href="autor.html"><li>O autoru</li></a>
+            <a href="uputstvo.html"><li>Uputstvo</li></a>
+        </ul>
+    </nav>
+    <table>
+        <tr>
+          <th>Naziv instrumenta</th>
+          <th>Slika instrumenta</th>
+          <th>Zvuk instrumenta</th>
+        </tr>
+        <tr>
+          <td>Klavir</td>
+          <td><a href="https://sr.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B0%D0%B2%D0%B8%D1%80" target="_blank"><img src="img/klavir.jpg" alt="Klavir" width="150"></a></td>
+          <td><img src="img/zvucnik.jpg" id="1" alt="Zvucnik" width="150" onmouseover="playAudio(this.id)" onmouseout="pauseAudio(this.id)"></td>
+        </tr>
+        <tr>
+          <td>Bubnjevi</td>
+          <td><a href="https://sr.wikipedia.org/wiki/%D0%91%D1%83%D0%B1%D1%9A%D0%B5%D0%B2%D0%B8" target="_blank"><img src="img/bubnjevi.jpg" alt="Klavir" width="150"></a></td>
+          <td><img src="img/zvucnik.jpg" id="2" alt="Zvucnik" width="150" onmouseover="playAudio(this.id)" onmouseout="pauseAudio(this.id)"></td>
+        </tr>
+        <tr>
+          <td>Saksofon</td>
+          <td><a href="https://sr.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BA%D1%81%D0%BE%D1%84%D0%BE%D0%BD" target="_blank"><img src="img/saksofon.jpg" alt="Klavir" width="150"></a></td>
+          <td><img src="img/zvucnik.jpg" id="3" alt="Zvucnik" width="150" onmouseover="playAudio(this.id)" onmouseout="pauseAudio(this.id)"></td>
+        </tr>
+        <tr>
+          <td>Gitara</td>
+          <td><a href="https://sr.wikipedia.org/wiki/%D0%93%D0%B8%D1%82%D0%B0%D1%80%D0%B0" target="_blank"><img src="img/gitara.jpg" alt="Klavir" width="150"></a></td>
+          <td><img src="img/zvucnik.jpg" id="4" alt="Zvucnik" width="150" onmouseover="playAudio(this.id)" onmouseout="pauseAudio(this.id)"></td>
+        </tr>
+        <tr>
+          <td>Ksilofon</td>
+          <td><a href="https://sr.wikipedia.org/wiki/%D0%9A%D1%81%D0%B8%D0%BB%D0%BE%D1%84%D0%BE%D0%BD" target="_blank"><img src="img/ksilofon.jpg" alt="Klavir" width="150"></a></td>
+          <td><img src="img/zvucnik.jpg" id="5" alt="Zvucnik" width="150" onmouseover="playAudio(this.id)" onmouseout="pauseAudio(this.id)"></td>
+        </tr>
+        <tr>
+          <td>Pikolo</td>
+          <td><a href="https://sh.wikipedia.org/wiki/Pikolo" target="_blank"><img src="img/pikolo.jpg" alt="Klavir" width="150"></a></td>
+          <td><img src="img/zvucnik.jpg" id="6" alt="Zvucnik" width="150" onmouseover="playAudio(this.id)" onmouseout="pauseAudio(this.id)"></td>
+        </tr>
+        <tr>
+          <td>Violina</td>
+          <td><a href="https://sr.wikipedia.org/wiki/%D0%92%D0%B8%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0" target="_blank"><img  src="img/violina.jpg" alt="Violina" width="150"></a></td>
+          <td><img src="img/zvucnik.jpg" id="7" alt="Zvucnik" width="150" onmouseover="playAudio(this.id)" onmouseout="pauseAudio(this.id)"></td>
+        </tr>
+    </table>
+    <audio id="klavir">
+        <source src="sounds/klavir.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+    <audio id="bubnjevi">
+        <source src="sounds/bubnjevi.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+    <audio id="saksofon">
+        <source src="sounds/saksofon.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+    <audio id="gitara">
+        <source src="sounds/gitara.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+    <audio id="ksilofon">
+        <source src="sounds/ksilofon.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+    <audio id="pikolo">
+        <source src="sounds/pikolo.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+    <audio id="violina">
+        <source src="sounds/violina.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+    <script src="java.js"></script>
+</body>
+</html>

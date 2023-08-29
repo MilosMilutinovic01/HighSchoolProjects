@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <title>Vremenska prognoza</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+        <script src="izmena.js"></script>
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <body>
+            <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+                <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link active" href="#">Pocetna</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">O autoru</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Uputstvo</a>
+                </li>
+            
+                <!-- Dropdown -->
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+                        Jos
+                    </a>
+                    <div class="dropdown-menu">
+                        <a class="dropdown-item disabled" href="#">Informacija</a>
+                        <a class="dropdown-item disabled" href="#">O nama</a>
+                        <a class="dropdown-item disabled" href="#">Ne znam</a>
+                    </div>
+                </li>
+                </ul>
+            </nav><br><br>
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-sm-12">
+                            <select id="grad" name="grad">
+                                <option value="Beograd">Beograd</option>
+                                <option value="Kraljevo">Kraljevo</option>
+                                <option value="Cacak">Cacak</option>
+                                <option value="Novi-Sad">Novi Sad</option>
+                                <option value="Nis">Nis</option>
+                                <option value="Subotica">Subotica</option>
+                                <option value="Kragujevac">Kragujevac</option>
+                                <option value="Zrenjanin">Zrenjanin</option>
+                                <option value="Krusevac">Krusevac</option>
+                                <option value="Leskovac">Leskovac</option>
+                            </select>
+                            <input type="submit" onclick="zameni()">
+                    </div>
+                </div><br><br>
+                <div class="row">
+                    <div class="col-sm-12">
+                        <iframe src="https://naslovi.net/vremenska-prognoza/beograd" id="prikaz"></iframe>
+                    </div>
+                </div>
+            </div>
+    </body>
+</html>

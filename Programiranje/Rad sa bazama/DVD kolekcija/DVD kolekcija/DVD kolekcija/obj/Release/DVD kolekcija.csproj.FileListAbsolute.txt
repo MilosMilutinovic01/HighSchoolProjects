@@ -1,0 +1,8 @@
+F:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\bin\Release\DVD kolekcija.exe
+F:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\bin\Release\DVD kolekcija.pdb
+F:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\obj\Release\ResolveAssemblyReference.cache
+F:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\obj\Release\DVD_kolekcija.Form1.resources
+F:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\obj\Release\DVD_kolekcija.Properties.Resources.resources
+F:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\obj\Release\DVD kolekcija.csproj.GenerateResource.Cache
+F:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\obj\Release\DVD kolekcija.exe
+F:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\obj\Release\DVD kolekcija.pdb

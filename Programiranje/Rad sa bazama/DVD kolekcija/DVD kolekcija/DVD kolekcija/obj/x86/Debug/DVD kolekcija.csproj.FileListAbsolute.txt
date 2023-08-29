@@ -1,0 +1,40 @@
+F:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\bin\x86\Debug\DVD kolekcija.exe
+F:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\bin\x86\Debug\DVD kolekcija.pdb
+F:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\obj\x86\Debug\DVD_kolekcija.Form1.resources
+F:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\obj\x86\Debug\DVD_kolekcija.Properties.Resources.resources
+F:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\obj\x86\Debug\DVD kolekcija.csproj.GenerateResource.Cache
+F:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\obj\x86\Debug\DVD kolekcija.exe
+F:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\obj\x86\Debug\DVD kolekcija.pdb
+F:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\obj\x86\Debug\DVD_kolekcija.Glumci.resources
+F:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\obj\x86\Debug\DVD_kolekcija.Zanrovi_glumci.resources
+F:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\obj\x86\Debug\DVD_kolekcija.Producent_uloga.resources
+F:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\obj\x86\Debug\DVD_kolekcija.Producenti.resources
+D:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\bin\x86\Debug\DVD kolekcija.exe
+D:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\bin\x86\Debug\DVD kolekcija.pdb
+D:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\bin\x86\Debug\mscorlib.dll
+D:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\bin\x86\Debug\sortkey.nlp
+D:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\bin\x86\Debug\sorttbls.nlp
+D:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\bin\x86\Debug\big5.nlp
+D:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\bin\x86\Debug\bopomofo.nlp
+D:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\bin\x86\Debug\ksc.nlp
+D:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\bin\x86\Debug\prc.nlp
+D:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\bin\x86\Debug\prcp.nlp
+D:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\bin\x86\Debug\xjis.nlp
+D:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\bin\x86\Debug\normidna.nlp
+D:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\bin\x86\Debug\normnfc.nlp
+D:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\bin\x86\Debug\normnfd.nlp
+D:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\bin\x86\Debug\normnfkc.nlp
+D:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\bin\x86\Debug\normnfkd.nlp
+D:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\obj\x86\Debug\DVD kolekcija.csproj.AssemblyReference.cache
+D:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\obj\x86\Debug\DVD_kolekcija.Form1.resources
+D:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\obj\x86\Debug\DVD_kolekcija.Glumci.resources
+D:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\obj\x86\Debug\DVD_kolekcija.Producenti.resources
+D:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\obj\x86\Debug\DVD_kolekcija.Producent_uloga.resources
+D:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\obj\x86\Debug\DVD_kolekcija.Properties.Resources.resources
+D:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\obj\x86\Debug\DVD_kolekcija.Zanrovi_glumci.resources
+D:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\obj\x86\Debug\DVD kolekcija.csproj.GenerateResource.cache
+D:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\obj\x86\Debug\DVD kolekcija.csproj.CoreCompileInputs.cache
+D:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\obj\x86\Debug\DVD kolekcija.csproj.CopyComplete
+D:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\obj\x86\Debug\DVD kolekcija.exe
+D:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\obj\x86\Debug\DVD kolekcija.pdb

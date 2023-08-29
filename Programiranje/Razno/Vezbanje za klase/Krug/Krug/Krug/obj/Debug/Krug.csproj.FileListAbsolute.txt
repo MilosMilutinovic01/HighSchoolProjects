@@ -1,0 +1,10 @@
+C:\Users\Mikica\AppData\Local\Temporary Projects\Krug\bin\Debug\Krug.exe
+C:\Users\Mikica\AppData\Local\Temporary Projects\Krug\bin\Debug\Krug.pdb
+C:\Users\Mikica\AppData\Local\Temporary Projects\Krug\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mikica\AppData\Local\Temporary Projects\Krug\obj\Debug\Krug.exe
+C:\Users\Mikica\AppData\Local\Temporary Projects\Krug\obj\Debug\Krug.pdb
+F:\Skola\Programiranje\Treca godina\Zadaci\Vezbanje za klase\Krug\Krug\Krug\obj\Debug\Krug.exe
+F:\Skola\Programiranje\Treca godina\Zadaci\Vezbanje za klase\Krug\Krug\Krug\obj\Debug\Krug.pdb
+F:\Skola\Programiranje\Treca godina\Zadaci\Vezbanje za klase\Krug\Krug\Krug\bin\Debug\Krug.exe
+F:\Skola\Programiranje\Treca godina\Zadaci\Vezbanje za klase\Krug\Krug\Krug\bin\Debug\Krug.pdb
+F:\Skola\Programiranje\Treca godina\Zadaci\Vezbanje za klase\Krug\Krug\Krug\obj\Debug\ResolveAssemblyReference.cache

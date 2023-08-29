@@ -1,0 +1,43 @@
+D:\Programiranje\Racun za struju\Racun za struju\bin\Debug\Racun za struju.exe
+D:\Programiranje\Racun za struju\Racun za struju\bin\Debug\Racun za struju.pdb
+D:\Programiranje\Racun za struju\Racun za struju\obj\Debug\ResolveAssemblyReference.cache
+D:\Programiranje\Racun za struju\Racun za struju\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Programiranje\Racun za struju\Racun za struju\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\Programiranje\Racun za struju\Racun za struju\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Programiranje\Racun za struju\Racun za struju\obj\Debug\Racun za struju.csproj.GenerateResource.Cache
+D:\Programiranje\Racun za struju\Racun za struju\obj\Debug\Racun za struju.exe
+D:\Programiranje\Racun za struju\Racun za struju\obj\Debug\Racun za struju.pdb
+E:\Programiranje\Racun za struju\Racun za struju\obj\Debug\Racun za struju.exe
+E:\Programiranje\Racun za struju\Racun za struju\obj\Debug\Racun za struju.pdb
+E:\Programiranje\Racun za struju\Racun za struju\bin\Debug\Racun za struju.exe
+E:\Programiranje\Racun za struju\Racun za struju\bin\Debug\Racun za struju.pdb
+E:\Programiranje\Racun za struju\Racun za struju\obj\Debug\ResolveAssemblyReference.cache
+E:\Programiranje\Racun za struju\Racun za struju\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Programiranje\Racun za struju\Racun za struju\obj\Debug\WindowsFormsApplication1.Form2.resources
+E:\Programiranje\Racun za struju\Racun za struju\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Programiranje\Racun za struju\Racun za struju\obj\Debug\Racun za struju.csproj.GenerateResource.Cache
+D:\Programiranje\Racun za struju\Racun za struju\obj\Debug\WindowsFormsApplication1.Form3.resources
+E:\Programiranje\Racun za struju\Racun za struju\obj\Debug\WindowsFormsApplication1.Form3.resources
+F:\Programiranje\Racun za struju\Racun za struju\obj\Debug\Racun za struju.exe
+F:\Programiranje\Racun za struju\Racun za struju\obj\Debug\Racun za struju.pdb
+F:\Programiranje\Racun za struju\Racun za struju\bin\Debug\Racun za struju.exe
+F:\Programiranje\Racun za struju\Racun za struju\bin\Debug\Racun za struju.pdb
+F:\Programiranje\Racun za struju\Racun za struju\obj\Debug\ResolveAssemblyReference.cache
+F:\Programiranje\Racun za struju\Racun za struju\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\Programiranje\Racun za struju\Racun za struju\obj\Debug\WindowsFormsApplication1.Form2.resources
+F:\Programiranje\Racun za struju\Racun za struju\obj\Debug\WindowsFormsApplication1.Form3.resources
+F:\Programiranje\Racun za struju\Racun za struju\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Programiranje\Racun za struju\Racun za struju\obj\Debug\Racun za struju.csproj.GenerateResource.Cache
+F:\Fles\Programiranje\Racun za struju\Racun za struju\bin\Debug\Racun za struju.exe
+F:\Fles\Programiranje\Racun za struju\Racun za struju\bin\Debug\Racun za struju.pdb
+F:\Fles\Programiranje\Racun za struju\Racun za struju\bin\Debug\System.Windows.Forms.DataVisualization.dll
+F:\Fles\Programiranje\Racun za struju\Racun za struju\obj\Debug\Racun za struju.csproj.AssemblyReference.cache
+F:\Fles\Programiranje\Racun za struju\Racun za struju\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\Fles\Programiranje\Racun za struju\Racun za struju\obj\Debug\WindowsFormsApplication1.Form2.resources
+F:\Fles\Programiranje\Racun za struju\Racun za struju\obj\Debug\WindowsFormsApplication1.Form3.resources
+F:\Fles\Programiranje\Racun za struju\Racun za struju\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Fles\Programiranje\Racun za struju\Racun za struju\obj\Debug\Racun za struju.csproj.GenerateResource.cache
+F:\Fles\Programiranje\Racun za struju\Racun za struju\obj\Debug\Racun za struju.csproj.CoreCompileInputs.cache
+F:\Fles\Programiranje\Racun za struju\Racun za struju\obj\Debug\Racun za struju.csproj.CopyComplete
+F:\Fles\Programiranje\Racun za struju\Racun za struju\obj\Debug\Racun za struju.exe
+F:\Fles\Programiranje\Racun za struju\Racun za struju\obj\Debug\Racun za struju.pdb

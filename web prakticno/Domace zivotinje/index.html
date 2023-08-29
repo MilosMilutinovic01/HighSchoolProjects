@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		  <title>Domace zivotinje</title>
+		  <meta charset="utf-8">
+		  <meta name="viewport" content="width=device-width, initial-scale=1">
+		  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+		  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+		  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+		  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+		  <link rel="stylesheet" href="style.css">
+	</head>
+	<body class="pozadina">
+		<div class="container-fluid">
+			<nav class="navbar navbar-expand-lg navbar-light bg-dark">
+			  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+				<div class="navbar-nav">
+				  <a class="nav-item nav-link active" href="index.html">Početna <span class="sr-only">(current)</span></a>
+				  <a class="nav-item nav-link" href="autor.html">O autoru</a>
+				  <a class="nav-item nav-link" href="uputstvo.html">Uputstvo</a>
+				</div>
+			  </div>
+			  </nav>
+			  <div class="row">
+			
+				<div class="card col-4">
+					<img class="card-img-top" src="img/kokoska.jpg" id="kokoska" alt="Card image cap" onmouseover="PlaySound('kokoska1')" onmouseout="StopSound('kokoska1')" onclick="otvoriModal('kokoska')">
+					  <div class="card-body">
+						<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+					  </div>
+					  <div id="kokoskaModal" class="modal">
+						  <div class="modal-content">
+							<span id="kokoskaSpan" class="close" onclick="zatvori('kokoska')">&times;</span>
+							<p>Kokoska</p>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vulputate arcu dui, at eleifend est vestibulum nec. Quisque eget placerat dui.
+						  </div>
+					  </div>
+					  <audio id='kokoska1' src='http://soundbible.com/mp3/Chicken-SoundBible.com-744739895.mp3'/>
+				</div>
+				<div class="card col-4">
+					  <img class="card-img-top" src="img/koza.jpg" id="koza" alt="Card image cap" onmouseover="PlaySound('koza1')" onmouseout="StopSound('koza1')" onclick="otvoriModal('koza')">
+					<div class="card-body">
+						<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+					</div>
+					<div id="kozaModal" class="modal">
+						<div class="modal-content">
+							<span id="kozaSpan" class="close" onclick="zatvori('koza')">&times;</span>
+							<p>Koza</p>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vulputate arcu dui, at eleifend est vestibulum nec. Quisque eget placerat dui.
+						</div>
+					</div>
+						<audio id='koza1' src='http://soundbible.com/mp3/Bleat-SoundBible.com-893851569.mp3'/>
+				</div>
+				<div class="card col-4">
+					  <img class="card-img-top" src="img/misirka.jpg" id="misirka" alt="Card image cap" onmouseover="PlaySound('misirka1')" onmouseout="StopSound('misirka1')" onclick="otvoriModal('misirka')">
+					  <div class="card-body">
+						<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+					  </div>
+					  <div id="misirkaModal" class="modal">
+						  <div class="modal-content">
+							<span id="misirkaSpan" class="close" onclick="zatvori('misirka')">&times;</span>
+							<p>Misirka</p>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vulputate arcu dui, at eleifend est vestibulum nec. Quisque eget placerat dui.
+						  </div>
+					  </div>
+					  <audio id='misirka1' src='http://soundbible.com/mp3/Turkey_Call-JimBob-1691466258.mp3'/>
+				</div>
+			</div>
+			<div class="row">
+					<div class="card col-4">
+						  <img class="card-img-top" src="img/krava.jpg" id="krava" alt="Card image cap" onmouseover="PlaySound('krava1')" onmouseout="StopSound('krava1')" onclick="otvoriModal('krava')">
+						  <div class="card-body">
+							<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+						  </div>
+						  <div id="kravaModal" class="modal">
+							  <div class="modal-content">
+								<span id="kravaSpan" class="close" onclick="zatvori('krava')">&times;</span>
+								<p>Krava</p>
+								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vulputate arcu dui, at eleifend est vestibulum nec. Quisque eget placerat dui.
+							  </div>
+						  </div>
+						  <audio id='krava1' src='http://soundbible.com/mp3/Cow_Moo-Mike_Koenig-42670858.mp3'/>
+					</div>
+					<div class="card col-4">
+						  <img class="card-img-top" src="img/ovca.jpg" id="ovca" alt="Card image cap" onmouseover="PlaySound('ovca1')" onmouseout="StopSound('ovca1')" onclick="otvoriModal('ovca')">
+						  <div class="card-body">
+							<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+						  </div>
+						  <div id="ovcaModal" class="modal">
+							  <div class="modal-content">
+								<span id="ovcaSpan" class="close" onclick="zatvori('ovca')">&times;</span>
+								<p>Ovca</p>
+								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vulputate arcu dui, at eleifend est vestibulum nec. Quisque eget placerat dui.
+							  </div>
+						  </div>
+						  <audio id='ovca1' src='http://soundbible.com/mp3/Sheep-SoundBible.com-1847990075.mp3'/>
+					</div>
+			</div>
+		</div>
+		<script src="script.js"></script> 
+	</body>
+</html>

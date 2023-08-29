@@ -1,0 +1,16 @@
+C:\Users\Mikica\AppData\Local\Temporary Projects\Zadatak 1\bin\Debug\Zadatak 1.exe
+C:\Users\Mikica\AppData\Local\Temporary Projects\Zadatak 1\bin\Debug\Zadatak 1.pdb
+C:\Users\Mikica\AppData\Local\Temporary Projects\Zadatak 1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mikica\AppData\Local\Temporary Projects\Zadatak 1\obj\Debug\Zadatak 1.exe
+C:\Users\Mikica\AppData\Local\Temporary Projects\Zadatak 1\obj\Debug\Zadatak 1.pdb
+F:\Skola\Programiranje\Treca godina\Zadaci\Domaci 2\Zadatak 1\Zadatak 1\obj\Debug\Zadatak 1.exe
+F:\Skola\Programiranje\Treca godina\Zadaci\Domaci 2\Zadatak 1\Zadatak 1\obj\Debug\Zadatak 1.pdb
+F:\Skola\Programiranje\Treca godina\Zadaci\Domaci 2\Zadatak 1\Zadatak 1\bin\Debug\Zadatak 1.exe
+F:\Skola\Programiranje\Treca godina\Zadaci\Domaci 2\Zadatak 1\Zadatak 1\bin\Debug\Zadatak 1.pdb
+F:\Skola\Programiranje\Treca godina\Zadaci\Domaci 2\Zadatak 1\Zadatak 1\obj\Debug\ResolveAssemblyReference.cache
+D:\Skola\Programiranje\Treca godina\Zadaci\Domaci 2\Zadatak 1\Zadatak 1\bin\Debug\Zadatak 1.exe
+D:\Skola\Programiranje\Treca godina\Zadaci\Domaci 2\Zadatak 1\Zadatak 1\bin\Debug\Zadatak 1.pdb
+D:\Skola\Programiranje\Treca godina\Zadaci\Domaci 2\Zadatak 1\Zadatak 1\obj\Debug\Zadatak 1.csproj.AssemblyReference.cache
+D:\Skola\Programiranje\Treca godina\Zadaci\Domaci 2\Zadatak 1\Zadatak 1\obj\Debug\Zadatak 1.csproj.CoreCompileInputs.cache
+D:\Skola\Programiranje\Treca godina\Zadaci\Domaci 2\Zadatak 1\Zadatak 1\obj\Debug\Zadatak 1.exe
+D:\Skola\Programiranje\Treca godina\Zadaci\Domaci 2\Zadatak 1\Zadatak 1\obj\Debug\Zadatak 1.pdb
