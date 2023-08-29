@@ -1,0 +1,17 @@
+F:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3-grafika\Zadatak 9\Zadatak 9\bin\Debug\Zadatak 9.exe
+F:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3-grafika\Zadatak 9\Zadatak 9\bin\Debug\Zadatak 9.pdb
+F:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3-grafika\Zadatak 9\Zadatak 9\obj\Debug\ResolveAssemblyReference.cache
+F:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3-grafika\Zadatak 9\Zadatak 9\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3-grafika\Zadatak 9\Zadatak 9\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3-grafika\Zadatak 9\Zadatak 9\obj\Debug\Zadatak 9.csproj.GenerateResource.Cache
+F:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3-grafika\Zadatak 9\Zadatak 9\obj\Debug\Zadatak 9.exe
+F:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3-grafika\Zadatak 9\Zadatak 9\obj\Debug\Zadatak 9.pdb
+D:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3-grafika\Zadatak 9\Zadatak 9\bin\Debug\Zadatak 9.exe
+D:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3-grafika\Zadatak 9\Zadatak 9\bin\Debug\Zadatak 9.pdb
+D:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3-grafika\Zadatak 9\Zadatak 9\obj\Debug\Zadatak 9.csproj.AssemblyReference.cache
+D:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3-grafika\Zadatak 9\Zadatak 9\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3-grafika\Zadatak 9\Zadatak 9\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3-grafika\Zadatak 9\Zadatak 9\obj\Debug\Zadatak 9.csproj.GenerateResource.cache
+D:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3-grafika\Zadatak 9\Zadatak 9\obj\Debug\Zadatak 9.csproj.CoreCompileInputs.cache
+D:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3-grafika\Zadatak 9\Zadatak 9\obj\Debug\Zadatak 9.exe
+D:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3-grafika\Zadatak 9\Zadatak 9\obj\Debug\Zadatak 9.pdb

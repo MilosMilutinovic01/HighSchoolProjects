@@ -1,0 +1,17 @@
+F:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3-grafika\Zadatak 8\Zadatak 8\bin\Debug\Zadatak 8.exe
+F:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3-grafika\Zadatak 8\Zadatak 8\bin\Debug\Zadatak 8.pdb
+F:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3-grafika\Zadatak 8\Zadatak 8\obj\Debug\ResolveAssemblyReference.cache
+F:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3-grafika\Zadatak 8\Zadatak 8\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3-grafika\Zadatak 8\Zadatak 8\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3-grafika\Zadatak 8\Zadatak 8\obj\Debug\Zadatak 8.csproj.GenerateResource.Cache
+F:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3-grafika\Zadatak 8\Zadatak 8\obj\Debug\Zadatak 8.exe
+F:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3-grafika\Zadatak 8\Zadatak 8\obj\Debug\Zadatak 8.pdb
+D:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3-grafika\Zadatak 8\Zadatak 8\bin\Debug\Zadatak 8.exe
+D:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3-grafika\Zadatak 8\Zadatak 8\bin\Debug\Zadatak 8.pdb
+D:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3-grafika\Zadatak 8\Zadatak 8\obj\Debug\Zadatak 8.csproj.AssemblyReference.cache
+D:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3-grafika\Zadatak 8\Zadatak 8\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3-grafika\Zadatak 8\Zadatak 8\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3-grafika\Zadatak 8\Zadatak 8\obj\Debug\Zadatak 8.csproj.GenerateResource.cache
+D:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3-grafika\Zadatak 8\Zadatak 8\obj\Debug\Zadatak 8.csproj.CoreCompileInputs.cache
+D:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3-grafika\Zadatak 8\Zadatak 8\obj\Debug\Zadatak 8.exe
+D:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3-grafika\Zadatak 8\Zadatak 8\obj\Debug\Zadatak 8.pdb

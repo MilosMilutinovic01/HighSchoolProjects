@@ -1,0 +1,10 @@
+F:\Skola\Programiranje\Cetvrta godina\Baze\Kolekcija knjiga\Kolekcija knjiga\Kolekcija knjiga\bin\x86\Debug\Kolekcija knjiga.exe
+F:\Skola\Programiranje\Cetvrta godina\Baze\Kolekcija knjiga\Kolekcija knjiga\Kolekcija knjiga\bin\x86\Debug\Kolekcija knjiga.pdb
+F:\Skola\Programiranje\Cetvrta godina\Baze\Kolekcija knjiga\Kolekcija knjiga\Kolekcija knjiga\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Skola\Programiranje\Cetvrta godina\Baze\Kolekcija knjiga\Kolekcija knjiga\Kolekcija knjiga\obj\x86\Debug\Kolekcija_knjiga.Form1.resources
+F:\Skola\Programiranje\Cetvrta godina\Baze\Kolekcija knjiga\Kolekcija knjiga\Kolekcija knjiga\obj\x86\Debug\Kolekcija_knjiga.Properties.Resources.resources
+F:\Skola\Programiranje\Cetvrta godina\Baze\Kolekcija knjiga\Kolekcija knjiga\Kolekcija knjiga\obj\x86\Debug\Kolekcija_knjiga.Unos_knjiga.resources
+F:\Skola\Programiranje\Cetvrta godina\Baze\Kolekcija knjiga\Kolekcija knjiga\Kolekcija knjiga\obj\x86\Debug\Kolekcija knjiga.csproj.GenerateResource.Cache
+F:\Skola\Programiranje\Cetvrta godina\Baze\Kolekcija knjiga\Kolekcija knjiga\Kolekcija knjiga\obj\x86\Debug\Kolekcija knjiga.exe
+F:\Skola\Programiranje\Cetvrta godina\Baze\Kolekcija knjiga\Kolekcija knjiga\Kolekcija knjiga\obj\x86\Debug\Kolekcija knjiga.pdb
+F:\Skola\Programiranje\Cetvrta godina\Baze\Kolekcija knjiga\Kolekcija knjiga\Kolekcija knjiga\obj\x86\Debug\Kolekcija_knjiga.Po_kategorijama.resources

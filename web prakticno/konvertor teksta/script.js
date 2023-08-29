@@ -8,22 +8,26 @@ function latcir()
 		if(tekst1.charAt(i)=="n" && tekst1.charAt(i+1)=="j")
 		{
 			tekst+="њ";
-			i+=2;
+			i+=1;
+			continue;
 		}
 		if(tekst1.charAt(i)=="d" && tekst1.charAt(i+1)=="j")
 		{
 			tekst+="ђ";
-			i+=2;
+			i+=1;
+			continue;
 		}
 		if(tekst1.charAt(i)=="l" && tekst1.charAt(i+1)=="j")
 		{
 			tekst+="љ";
-			i+=2;
+			i+=1;
+			continue;
 		}
 		if(tekst1.charAt(i)=="d" && tekst1.charAt(i+1)=="ž")
 		{
 			tekst+="џ";
-			i+=2;
+			i+=1;
+			continue;
 		}
 		if(tekst1.charAt(i)=="a")tekst+="а";
 		if(tekst1.charAt(i)==" ")tekst+=" ";
@@ -35,7 +39,7 @@ function latcir()
 		if(tekst1.charAt(i)=="g")tekst+="г";
 		if(tekst1.charAt(i)=="h")tekst+="х";
 		if(tekst1.charAt(i)=="i")tekst+="и";
-		if(tekst1.charAt(i)=="j")tekst+="ј";
+		if(tekst1.charAt(i)=="j")tekst+="j";
 		if(tekst1.charAt(i)=="k")tekst+="к";
 		if(tekst1.charAt(i)=="l")tekst+="л";
 		if(tekst1.charAt(i)=="m")tekst+="м";
@@ -57,9 +61,8 @@ function latcir()
 
 function cirlat()
 {
-    tekst=document.getElementById("2").value;
 	document.getElementById("1").value="";
-	document.getElementById("2").value="";
+    tekst=document.getElementById("2").value;
 	var tekst1=tekst;
 	tekst="";
 	for (var i = 0; i < tekst1.length; i++) {
@@ -92,8 +95,8 @@ function cirlat()
 		if(tekst1.charAt(i)=="ђ"){tekst+="đ";continue;}
 		if(tekst1.charAt(i)=="ш"){tekst+="š";continue;}
 		if(tekst1.charAt(i)=="џ"){tekst+="dž";continue;}
+		if(tekst1.charAt(i)=="љ"){tekst+="lj";continue;}
 }
-console.log(tekst);
 	document.getElementById("2").value=tekst1;
 	document.getElementById("1").value=tekst;
 }

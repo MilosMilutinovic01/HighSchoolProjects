@@ -1,0 +1,5 @@
+C:\Users\Mikica\AppData\Local\Temporary Projects\Zadatak 3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mikica\AppData\Local\Temporary Projects\Zadatak 3\bin\Debug\Zadatak 3.exe
+C:\Users\Mikica\AppData\Local\Temporary Projects\Zadatak 3\bin\Debug\Zadatak 3.pdb
+C:\Users\Mikica\AppData\Local\Temporary Projects\Zadatak 3\obj\Debug\Zadatak 3.exe
+C:\Users\Mikica\AppData\Local\Temporary Projects\Zadatak 3\obj\Debug\Zadatak 3.pdb

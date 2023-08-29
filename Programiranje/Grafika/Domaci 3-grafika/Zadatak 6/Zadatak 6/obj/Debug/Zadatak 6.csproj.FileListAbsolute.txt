@@ -1,0 +1,8 @@
+F:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3-grafika\Zadatak 6\Zadatak 6\bin\Debug\Zadatak 6.exe
+F:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3-grafika\Zadatak 6\Zadatak 6\bin\Debug\Zadatak 6.pdb
+F:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3-grafika\Zadatak 6\Zadatak 6\obj\Debug\ResolveAssemblyReference.cache
+F:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3-grafika\Zadatak 6\Zadatak 6\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3-grafika\Zadatak 6\Zadatak 6\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3-grafika\Zadatak 6\Zadatak 6\obj\Debug\Zadatak 6.csproj.GenerateResource.Cache
+F:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3-grafika\Zadatak 6\Zadatak 6\obj\Debug\Zadatak 6.exe
+F:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3-grafika\Zadatak 6\Zadatak 6\obj\Debug\Zadatak 6.pdb

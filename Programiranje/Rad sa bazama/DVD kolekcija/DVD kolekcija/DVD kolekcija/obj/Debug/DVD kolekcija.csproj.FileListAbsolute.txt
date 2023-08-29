@@ -1,0 +1,16 @@
+C:\Users\Milos Milutinovic\AppData\Local\Temporary Projects\DVD kolekcija\bin\Debug\DVD kolekcija.exe
+C:\Users\Milos Milutinovic\AppData\Local\Temporary Projects\DVD kolekcija\bin\Debug\DVD kolekcija.pdb
+C:\Users\Milos Milutinovic\AppData\Local\Temporary Projects\DVD kolekcija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Milos Milutinovic\AppData\Local\Temporary Projects\DVD kolekcija\obj\Debug\DVD_kolekcija.Form1.resources
+C:\Users\Milos Milutinovic\AppData\Local\Temporary Projects\DVD kolekcija\obj\Debug\DVD_kolekcija.Properties.Resources.resources
+C:\Users\Milos Milutinovic\AppData\Local\Temporary Projects\DVD kolekcija\obj\Debug\DVD kolekcija.csproj.GenerateResource.Cache
+C:\Users\Milos Milutinovic\AppData\Local\Temporary Projects\DVD kolekcija\obj\Debug\DVD kolekcija.exe
+C:\Users\Milos Milutinovic\AppData\Local\Temporary Projects\DVD kolekcija\obj\Debug\DVD kolekcija.pdb
+F:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\obj\Debug\DVD kolekcija.exe
+F:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\obj\Debug\DVD kolekcija.pdb
+F:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\bin\Debug\DVD kolekcija.exe
+F:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\bin\Debug\DVD kolekcija.pdb
+F:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\obj\Debug\ResolveAssemblyReference.cache
+F:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\obj\Debug\DVD_kolekcija.Form1.resources
+F:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\obj\Debug\DVD_kolekcija.Properties.Resources.resources
+F:\Skola\Programiranje\Cetvrta godina\Baze\DVD kolekcija\DVD kolekcija\DVD kolekcija\obj\Debug\DVD kolekcija.csproj.GenerateResource.Cache

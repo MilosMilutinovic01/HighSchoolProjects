@@ -1,0 +1,10 @@
+F:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3\Zadatak 2\Zadatak 2\bin\Debug\Zadatak 2.exe
+F:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3\Zadatak 2\Zadatak 2\bin\Debug\Zadatak 2.pdb
+F:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3\Zadatak 2\Zadatak 2\obj\Debug\ResolveAssemblyReference.cache
+F:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3\Zadatak 2\Zadatak 2\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3\Zadatak 2\Zadatak 2\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3\Zadatak 2\Zadatak 2\obj\Debug\Zadatak 2.csproj.GenerateResource.Cache
+F:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3\Zadatak 2\Zadatak 2\obj\Debug\Zadatak 2.exe
+F:\Skola\Programiranje\Treca godina\Zadaci\Domaci 3\Zadatak 2\Zadatak 2\obj\Debug\Zadatak 2.pdb
+F:\Skola\Programiranje\Treca godina\Zadaci\Domaci 1- grafika\Zadatak 2\Zadatak 2\obj\Debug\Zadatak 2.exe
+F:\Skola\Programiranje\Treca godina\Zadaci\Domaci 1- grafika\Zadatak 2\Zadatak 2\obj\Debug\Zadatak 2.pdb
