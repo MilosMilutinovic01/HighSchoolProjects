@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		  <title>Efekti tabele</title>
+		  <meta charset="utf-8">
+		  <meta name="viewport" content="width=device-width, initial-scale=1">
+		  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+		  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+		  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+		  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+		  <link rel="stylesheet" href="style.css">
+	</head>
+	<body>
+		
+		  
+			<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+			  <div class="collapse navbar-collapse" id="navbarText">
+				<ul class="navbar-nav mr-auto">
+				  <li class="nav-item active">
+					<a class="nav-link" href="index.html">Početna <span class="sr-only">(current)</span></a>
+				  </li>
+				  <li class="nav-item">
+					<a class="nav-link" href="aplikacija.html">O aplikaciji</a>
+				  </li>
+				</ul>
+			  </div>
+			</nav>
+			<div class="container-fluid">
+				<div class="row">
+					<table id="Tabela" class="">
+							<tr id="zaglavlje">
+								<th>Rbr</th>
+								<th>Ime</th>
+								<th>Prezime</th>
+								<th>Škola</th>
+								<th>Poeni</th>
+							</tr>
+							<tr>
+								<td>1.</td>
+								<td>Pera</td>
+								<td>Mikic</td>
+								<td>OŠ “Vuk Karadžić”</td>
+								<td>54</td>
+							</tr>
+							<tr>
+								<td>2.</td>
+								<td>Mika</td>
+								<td>Zikic</td>
+								<td>OŠ “Ivo Andrić”</td>
+								<td>42</td>
+							</tr>
+							<tr>
+								<td>3.</td>
+								<td>Mika</td>
+								<td>Zikic</td>
+								<td>OŠ “Ivo Andrić”</td>
+								<td>89</td>
+							</tr>
+							<tr>
+								<td>4.</td>
+								<td>Mika</td>
+								<td>Zikic</td>
+								<td>OŠ “Ivo Andrić”</td>
+								<td>12</td>
+							</tr>
+							<tr>
+								<td>5.</td>
+								<td>Mika</td>
+								<td>Zikic</td>
+								<td>OŠ “Ivo Andrić”</td>
+								<td>32</td>
+							</tr>
+							<tr>
+								<td>6.</td>
+								<td>Mika</td>
+								<td>Zikic</td>
+								<td>OŠ “Ivo Andrić”</td>
+								<td>78</td>
+							</tr>
+							<tr>
+								<td>7.</td>
+								<td>Mika</td>
+								<td>Zikic</td>
+								<td>OŠ “Ivo Andrić”</td>
+								<td>49</td>
+							</tr>
+					</table>
+				</div>
+				<div class="row">
+					<button class="btn-primary" onclick="sortTable()">Сортирај</button>
+					<button class="btn-secondary" onclick="oboji()">Обоји алтернативне редове</button>
+					<button class="btn-success" onclick="prosli()">Маркирај оне који су положили</button>
+					<button class="btn-danger" onclick="nisuProsli()">Маркирај оне који нису прошли</button>
+					<button class="btn-warning" onclick="izbaci()">Издвој оне који нису положили</button>
+				</div>
+		</div>
+	</body>
+	<script src="script.js"></script>
+</html>

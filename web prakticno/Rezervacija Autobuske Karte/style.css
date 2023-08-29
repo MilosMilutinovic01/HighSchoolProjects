@@ -1,0 +1,26 @@
+.container{
+	margin:auto;
+}
+
+.naslov{
+	
+	text-align:center;
+	margin-top:10px;
+	
+}
+
+.footer{
+	
+	margin-top:10px;
+	
+}
+.col{
+text-align: center;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+font-size: 50px;
+}

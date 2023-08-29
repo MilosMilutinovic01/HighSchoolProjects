@@ -1,0 +1,9 @@
+#zaglavlje{
+	background-color:yellow;
+}
+nav{
+	margin-bottom:50px;
+}
+.container-fluid:first-child{
+	height:400px;
+}
